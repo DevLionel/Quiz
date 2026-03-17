@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\QuizPlatform\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\User\\source\\repos\\QuizPlatform\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\features\\quiz\\queries\\getquestionbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\features\\quiz\\queries\\getquestionbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-17T19:22:54.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetQuestionByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
+              "RelativeToolTip": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T19:19:14.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
