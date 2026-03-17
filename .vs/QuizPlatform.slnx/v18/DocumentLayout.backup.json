@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\QuizPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F376F126-D279-DAA3-336F-608EFCDDD487}|Quiz.Infrastructure\\Quiz.Infrastructure.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.infrastructure\\repositories\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F376F126-D279-DAA3-336F-608EFCDDD487}|Quiz.Infrastructure\\Quiz.Infrastructure.csproj|solutionrelative:quiz.infrastructure\\repositories\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|solutionrelative:quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\features\\quiz\\queries\\getquizquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\features\\quiz\\queries\\getquizquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\features\\quiz\\queries\\getquestionbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\features\\quiz\\queries\\getquestionbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F376F126-D279-DAA3-336F-608EFCDDD487}|Quiz.Infrastructure\\Quiz.Infrastructure.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.infrastructure\\repositories\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F376F126-D279-DAA3-336F-608EFCDDD487}|Quiz.Infrastructure\\Quiz.Infrastructure.csproj|solutionrelative:quiz.infrastructure\\repositories\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\interfaces\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "RelativeToolTip": "Quiz.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:48:21.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "QuizRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Infrastructure\\Repositories\\QuizRepository.cs",
               "RelativeDocumentMoniker": "Quiz.Infrastructure\\Repositories\\QuizRepository.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IQuizRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Interfaces\\IQuizRepository.cs",
               "RelativeDocumentMoniker": "Quiz.Application\\Interfaces\\IQuizRepository.cs",
@@ -57,11 +74,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetQuizQuery.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
-              "RelativeDocumentMoniker": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
-              "RelativeToolTip": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
+              "Title": "GetQuestionByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
+              "RelativeToolTip": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuestionByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T14:06:57.773Z",
@@ -69,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetAllQuestionsQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetAllQuestionsQueryHandler.cs",
               "RelativeDocumentMoniker": "Quiz.Application\\Features\\Quiz\\Queries\\GetAllQuestionsQueryHandler.cs",
