@@ -20,7 +20,7 @@ public class GetAllQuestionsQueryHandler : IRequestHandler<GetAllQuestionsQuery,
         {
             Id = q.Id,
             QuestionText = q.QuestionText,
-            TemplateTypeId = q.QuestionTemplateId,
+            QuestionTemplateTypeId = q.QuestionTemplateId,
             MediaType = q.MediaType.ToString(),
             MediaUrl = q.MediaUrl,
             Answers = q.Answers.Select(a => new AnswerDto
