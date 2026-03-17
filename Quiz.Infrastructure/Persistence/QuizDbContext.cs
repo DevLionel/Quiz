@@ -31,8 +31,8 @@ namespace Quiz.Infrastructure.Persistence
             );
 
             modelBuilder.Entity<Question>().HasData(
-                new Question { Id = 1, QuestionText = "The Earth is round.", QuizTemplateId = 1, MediaType = MediaType.None },
-                new Question { Id = 2, QuestionText = "What is the capital of France?", QuizTemplateId = 2, MediaType = MediaType.None }
+                new Question { Id = 1, QuestionText = "The Earth is round.", QuestionTemplateId = 1, MediaType = MediaType.None },
+                new Question { Id = 2, QuestionText = "What is the capital of France?", QuestionTemplateId = 2, MediaType = MediaType.None }
             );
 
             modelBuilder.Entity<Answer>().HasData(

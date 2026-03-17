@@ -26,7 +26,7 @@ public class GetQuestionByIdQueryHandler : IRequestHandler<GetQuestionByIdQuery,
         {
             Id = q.Id,
             QuestionText = q.QuestionText,
-            TemplateTypeId = q.QuizTemplateId,
+            QuestionTemplateTypeId = q.QuestionTemplateId,
             MediaType = q.MediaType.ToString(),
             MediaUrl = q.MediaUrl,
             Answers = q.Answers.Select(a => new AnswerDto

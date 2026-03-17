@@ -15,7 +15,7 @@ namespace Quiz.Domain.Entities
 
         public string? MediaUrl { get; set; }
 
-        public int QuizTemplateId { get; set; }
+        public int QuestionTemplateId { get; set; }
 
         public QuizTemplate QuizTemplate { get; set; }
 
