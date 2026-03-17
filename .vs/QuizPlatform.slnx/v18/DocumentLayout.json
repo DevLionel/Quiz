@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\QuizPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1B12ABB-E1ED-4EC5-9864-BFD025C9C496}|Solution Items{E1B12ABB-E1ED-4EC5-9864-BFD025C9C496}|C:\\Users\\User\\source\\repos\\QuizPlatform\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E1B12ABB-E1ED-4EC5-9864-BFD025C9C496}|Solution Items{E1B12ABB-E1ED-4EC5-9864-BFD025C9C496}|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|solutionrelative:quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|solutionrelative:quiz.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\quiz.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\quiz.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\features\\quiz\\queries\\getquizqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\features\\quiz\\queries\\getquizqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\features\\quiz\\queries\\getquizquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\features\\quiz\\queries\\getquizquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.application\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6BB3FB-E3A9-4154-7EA0-BE4B9F8967AE}|Quiz.Application\\Quiz.Application.csproj|solutionrelative:quiz.application\\dtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|c:\\users\\user\\source\\repos\\quizplatform\\quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F458F8-73BD-F6D5-1FE7-DBD302A4377D}|Quiz.Api\\Quiz.Api.csproj|solutionrelative:quiz.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-16T12:01:12.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Quiz.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Quiz.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T09:58:05.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Quiz.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Program.cs",
-              "RelativeToolTip": "Quiz.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:36:13.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Quiz.Application",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Quiz.Application.csproj",
-              "RelativeDocumentMoniker": "Quiz.Application\\Quiz.Application.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Quiz.Application.csproj",
-              "RelativeToolTip": "Quiz.Application\\Quiz.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-16T09:30:56.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "GetQuizQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQueryHandler.cs",
               "RelativeDocumentMoniker": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQueryHandler.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQueryHandler.cs",
               "RelativeToolTip": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:29:31.922Z",
+              "WhenOpened": "2026-03-17T08:34:33.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QuestionDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\DTOs\\QuestionDto.cs",
-              "RelativeDocumentMoniker": "Quiz.Application\\DTOs\\QuestionDto.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\DTOs\\QuestionDto.cs",
-              "RelativeToolTip": "Quiz.Application\\DTOs\\QuestionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:27:55.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GetQuizQuery.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
               "RelativeDocumentMoniker": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
               "RelativeToolTip": "Quiz.Application\\Features\\Quiz\\Queries\\GetQuizQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:26:26.676Z",
+              "WhenOpened": "2026-03-17T08:34:30.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\DTOs\\QuestionDto.cs",
+              "RelativeDocumentMoniker": "Quiz.Application\\DTOs\\QuestionDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Application\\DTOs\\QuestionDto.cs",
+              "RelativeToolTip": "Quiz.Application\\DTOs\\QuestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:33:42.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\QuizPlatform\\Quiz.Api\\Program.cs",
+              "RelativeToolTip": "Quiz.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:30:58.818Z",
               "EditorCaption": ""
             }
           ]
