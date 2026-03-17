@@ -6,6 +6,8 @@
 
     public interface IQuizRepository
     {
-        Task<List<Question>> GetQuestionsByTemplateId(int templateId);
+        Task<Question> GetQuestionById(int questionId);
+
+        Task<List<Question>> GetAllQuestionsAsync();
     }
 }

@@ -14,12 +14,20 @@ namespace Quiz.Infrastructure.Repositories
             _context = context;
         }
 
-        public async Task<List<Question>> GetQuestionsByTemplateId(int templateId)
+        public async Task<List<Question>> GetAllQuestionsAsync()
+        {
+            return await _context.Questions
+                .Include(q => q.Answers)   // Include answers for each question
+                .OrderBy(q => q.Id)         // Optional: order by question ID
+                .ToListAsync();
+        }
+
+        public async Task<Question> GetQuestionById(int questionId)
         {
             return await _context.Questions
                 .Include(q => q.Answers)
-                .Where(q => q.QuizTemplateId == templateId)
-                .ToListAsync();
+                .Where(predicate: q => q.Id == questionId)
+                .SingleAsync();
         }
     }
 }
