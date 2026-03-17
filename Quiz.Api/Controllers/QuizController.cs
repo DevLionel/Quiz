@@ -1,26 +1,32 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Quiz.Application.Features.Quiz.Queries;
-using System.Threading.Tasks;
+using Quiz.Application.DTOs;
 
-namespace Quiz.Api.Controllers
+[Route("api/[controller]")]
+[ApiController]
+public class QuizController : ControllerBase
 {
-    [ApiController]
-    [Route("api/quiz")]
-    public class QuizController : ControllerBase
+    private readonly IMediator _mediator;
+
+    public QuizController(IMediator mediator)
     {
-        private readonly IMediator _mediator;
+        _mediator = mediator;
+    }
 
-        public QuizController(IMediator mediator)
-        {
-            _mediator = mediator;
-        }
+    // GET: api/quiz
+    [HttpGet]
+    public async Task<ActionResult<List<QuestionDto>>> GetAllQuestions()
+    {
+        var questions = await _mediator.Send(new GetAllQuestionsQuery());
+        return Ok(questions);
+    }
 
-        [HttpGet("{templateId}")]
-        public async Task<IActionResult> GetQuiz(int templateId)
-        {
-            var result = await _mediator.Send(new GetQuizQuery(templateId));
-            return Ok(result);
-        }
+    // GET: api/quiz/{id}
+    [HttpGet("{id}")]
+    public async Task<ActionResult<QuestionDto>> GetQuestionById(int id)
+    {
+        var question = await _mediator.Send(new GetQuestionByIdQuery { QuestionId = id });
+        if (question == null) return NotFound();
+        return Ok(question);
     }
 }

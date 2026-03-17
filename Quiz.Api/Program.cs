@@ -1,6 +1,5 @@
 using MediatR;
 using Microsoft.EntityFrameworkCore;
-using Quiz.Application.Features.Quiz.Queries;
 using Quiz.Application.Interfaces;
 using Quiz.Infrastructure.Persistence;
 using Quiz.Infrastructure.Repositories;
@@ -19,7 +18,7 @@ builder.Services.AddScoped<IQuizRepository, QuizRepository>();
 // Add MediatR
 builder.Services.AddMediatR(cfg =>
 {
-    cfg.RegisterServicesFromAssemblyContaining<GetQuizQueryHandler>();
+    cfg.RegisterServicesFromAssemblyContaining<GetQuestionByIdQueryHandler>();
 });
 
 builder.Services.AddCors(options =>
