@@ -21,6 +21,7 @@ namespace Quiz.Application.Features.Quiz.Queries
             {
                 Id = q.Id,
                 QuestionText = q.QuestionText,
+                QuestionTemplateTypeId = q.QuizTemplateId,
                 MediaType = q.MediaType.ToString(),
                 MediaUrl = q.MediaUrl,
                 Answers = q.Answers.Select(a => new AnswerDto
